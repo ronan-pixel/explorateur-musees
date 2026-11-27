@@ -5,6 +5,7 @@
 ## What it does
 
 <!-- One or two sentences: what a visitor can do with this page. -->
+with this page a visitor can see the list of all the museums in the Brittany region off Françe
 
 ## Data source and licence
 
